@@ -12,7 +12,7 @@
 ![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
 
 ## Summary
-목표로 하는 직군이나 포지션, 관심있는 분야등을 취업 희망 시기와 함께 간략하게 적으세요.
+> 목표로 하는 직군이나 포지션, 관심있는 분야등을 취업 희망 시기와 함께 간략하게 적으세요.
 
 ## Skill
 > 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다.
@@ -67,7 +67,7 @@
 ## Education  
 
 **동아대 경영정보학과**(2015 ~ 2021)  
-- 수강했던 과목중에 관련 있는 것들만 적으세요
+- 수강했던 과목중에 목표로 하는 역할과 관련 있는 것들만 적으세요
 
 **Study**
 - 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29 ~ 진행중)
