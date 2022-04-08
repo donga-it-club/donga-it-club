@@ -1,10 +1,10 @@
-대학생 이력서 샘플입니다. 아직 일 한 경력이 없기 때문에 가장 신경써서 만들어야 하는것이 Skill 부분입니다.
-깃헙 프로필 페이지(깃헙 어카운트와 같은 이름으로 만든 리포지토리의 README.md파일)에 올려 놓을 수 있도록 해 보세요.
-[github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)을 넣어 주시면 금상첨화겠죠?
-
+> 대학생 이력서 샘플입니다. 아직 일 한 경력이 없기 때문에 가장 신경써서 만들어야 하는것이 Skill 부분입니다.
+> 깃헙 프로필 페이지(깃헙 어카운트와 같은 이름으로 만든 리포지토리의 README.md파일)에 올려 놓을 수 있도록 해 보세요.
 
 # 홍길동
 > 전화번호는 중요한 개인정보이므로 가급적 노출시키지 않는것이 좋습니다.
+> 깃헙 주소와 더불어 [github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)도 넣어 주시면 금상첨화겠죠? 아래 예제도 넣었습니다.
+
 - 이메일: honggildong@gmail.net  
 - 블로그: https://gildong.blgger.com  
 - 깃헙: https://github.com/donga-it-club  
@@ -67,7 +67,7 @@
 ## Education  
 
 **동아대 경영정보학과**(2015 ~ 2021)  
-- 수강했던 과목중에 목표로 하는 역할과 관련 있는 것들만 적으세요
+> 수강했던 과목중에 목표로 하는 역할과 관련 있는 것들만 적으세요
 
 **Study**
 - 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29 ~ 진행중)
@@ -78,7 +78,8 @@
 
 
 ## Projects
-
+> 수업이나 스터디에서 진행했던 프로젝트들을 적습니다.
+ 
 ### LSTM과 감성 분석을 활용한 테마형 ETF(2차전지) 가격 예측  
 
 - 블로그 주소: https://gildong.blogger.com/6
