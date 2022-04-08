@@ -1,4 +1,7 @@
 대학생 이력서 샘플입니다. 아직 일 한 경력이 없기 때문에 가장 신경써서 만들어야 하는것이 Skill 부분입니다.
+깃헙 프로필 페이지(깃헙 어카운트와 같은 이름으로 만든 리포지토리의 README.md파일)에 올려 놓을 수 있도록 해 보세요.
+[github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)을 넣어 주시면 금상첨화겠죠?
+
 
 # 홍길동
 > 전화번호는 중요한 개인정보이므로 가급적 노출시키지 않는것이 좋습니다.
